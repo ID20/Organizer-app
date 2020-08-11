@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Organizer-app/static/css/main.045e1d8a.chunk.css",
+    "main.js": "/Organizer-app/static/js/main.e6692230.chunk.js",
+    "main.js.map": "/Organizer-app/static/js/main.e6692230.chunk.js.map",
+    "runtime-main.js": "/Organizer-app/static/js/runtime-main.8ceebc79.js",
+    "runtime-main.js.map": "/Organizer-app/static/js/runtime-main.8ceebc79.js.map",
+    "static/js/2.64a1dc65.chunk.js": "/Organizer-app/static/js/2.64a1dc65.chunk.js",
+    "static/js/2.64a1dc65.chunk.js.map": "/Organizer-app/static/js/2.64a1dc65.chunk.js.map",
+    "index.html": "/Organizer-app/index.html",
+    "precache-manifest.dedce00b4e5a1c3885136efd77d2556e.js": "/Organizer-app/precache-manifest.dedce00b4e5a1c3885136efd77d2556e.js",
+    "service-worker.js": "/Organizer-app/service-worker.js",
+    "static/css/main.045e1d8a.chunk.css.map": "/Organizer-app/static/css/main.045e1d8a.chunk.css.map",
+    "static/js/2.64a1dc65.chunk.js.LICENSE.txt": "/Organizer-app/static/js/2.64a1dc65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ceebc79.js",
+    "static/js/2.64a1dc65.chunk.js",
+    "static/css/main.045e1d8a.chunk.css",
+    "static/js/main.e6692230.chunk.js"
+  ]
+}
